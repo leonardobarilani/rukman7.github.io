@@ -66,7 +66,7 @@ Pointers in Go share some similarities with C pointers but they also have some d
 ###### Similarities
 
 * **Memory Addresses**: Both store memory addresses of other variables.
-* **Dereferencing**: In both languages, the `*` operator is used to dereference a pointer and access the value at the momory location it points to.
+* **Dereferencing**: In both languages, the `*` operator is used to dereference a pointer and access the value at the memory location it points to.
 * **Nil Pointers**: Both have a concept of `nil` pointers, which indicate they don't point to any valid memory location.
 
 ###### Differences
